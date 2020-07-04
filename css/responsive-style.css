@@ -1,0 +1,45 @@
+@media only screen and (max-width: 708px) {
+    html{
+        font-size: 8px;
+    }
+}
+
+@media only screen and (max-width: 708px) {
+    html{
+        font-size: 10px;
+    }
+
+    .profile-container, .experience-container, .education-container{
+        grid-column: 1/4;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    html{
+        font-size: 8px;
+    }
+
+    .experience-title{
+        font-size: 2.5rem;
+    }
+}
+
+@media only screen and (max-width: 324px) {
+    html{
+        font-size: 8px;
+    }
+
+    .experience-title{
+        font-size: 1.8rem;
+    }
+
+    .experience-item-title h1{
+        font-size: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 266px) {
+    html{
+        font-size: 5px;
+    }
+}
