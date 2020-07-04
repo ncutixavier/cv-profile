@@ -16,20 +16,18 @@
 .profile-container{
     background-color: #e3ebf0;
     grid-row: 1/3;
+    margin: auto 25%;
 }
 
 .profile-name-photo{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 1rem;
-    /* box-shadow: 0 6px 8px rgba(0, 0, 0, .2); */
 }
 
 .profile-photo img{
     border-radius: 50%;
     width: 200px;
-    
 }
 
 .profile-name{
@@ -38,10 +36,6 @@
     letter-spacing: 3px;
     text-transform: uppercase;
     padding: 1rem 0;
-}
-.profile-line{
-    width: 90%;
-    margin: auto;
 }
 
 .fa{
@@ -55,7 +49,7 @@
 .profile-address-content, .profile-skills-content{
     display: flex;
     align-items: center;
-    margin: 1.5rem 0;
+    margin: 2rem 0;
 }
 
 .add-title{
