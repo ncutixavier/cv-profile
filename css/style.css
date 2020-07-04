@@ -44,7 +44,7 @@
 }
 
 .fa{
-    color: #2e86c1;
+    color: lightblue;
 }
 
 .profile-address, .profile-skills{
@@ -85,8 +85,9 @@
 /* ********WORKING EXPERIENCE CONTAINER***************** */
 
 .experience-container{
-    background-color: #f8f8f8;
+    background-color: #04030B;
     grid-column: 2/4;
+    color:#fff;
 }
 
 .exp-f-t{
@@ -130,7 +131,7 @@
 .experience-date{
     font-size: 1.4rem;
     margin:1rem;
-    color: #2e86c1;
+    color: lightblue;
 }
 
 .experience-item-desc p{
@@ -138,17 +139,19 @@
     color: rgba(0, 0, 0, .7);
     line-height: 1.5;
     text-align: justify;
+    color:#fff;
 }
 
 /* ********************************************************** */
 
 .education-container{
-    background-color: #f8f8f8;
+    background-color: #04030B;
     grid-column: 2/4;
+    color:#fff;
 }
 
 .footer-container{
-    background-color: #2e86c1;
+    background-color: #20089F;
     grid-column: 1/4;
 }
 
