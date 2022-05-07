@@ -63,6 +63,12 @@
     color: #7c8287;
 }
 
+.add-title a{
+    margin-left: 2rem;
+    font-size: 1.8rem;
+    color: #7c8287;
+}
+
 .skill-title{
     font-size: 2.5rem;
     margin-left: 2rem;
